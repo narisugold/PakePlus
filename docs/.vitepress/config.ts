@@ -360,6 +360,7 @@ export default defineConfig({
                                     link: '/zh/question/other',
                                 },
                                 { text: 'Issue', link: '/zh/question/issue' },
+                                { text: '谨防诈骗', link: '/zh/question/liar' },
                             ],
                         },
                     ],
